@@ -1,2 +1,2 @@
-# artemvitushkin.github.io
+# Артем Витушкин
 Мой первый сайт
